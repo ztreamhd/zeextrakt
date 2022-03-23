@@ -2,19 +2,19 @@
 
 <h1 align="center"> ✯ ZEE5 LIVETV ✯ </h1>
 
-<p align="center"><b>It can Scrap ZEE5 Live Streaming URL's Using The Channel ID and Direct Play Anywhere</b></p><br>
+<p align="center"><b>It can scrape ZEE5 Live Streaming URL's Using The Channel ID and Direct Play Anywhere</b></p><br>
 
 <h2>🍁 How To Use : </h2>
 
 <h4>
-• Go on <a href="https://www.zee5.com/channels">ZEE5 Live TV</a> Page <br><br>
-• Click On Channel Which Links You Want <br><br>
-• And Just Copy Channel ID From URL Box <br><br>
-• e.g --> I Use This Link : https://www.zee5.com/channels/details/zee-cinema-hd/0-9-zeecinemahd <br><br>
-• Just Copy ID e.g. <code>0-9-zeecinemahd</code> at end of URL <br><br>
-  • After Copy Paste ID after this URL without <code>0-9-</code> --> <code> https://localhost/?c=CHANNEL_ID</code> <br><br>
-• It Final URL is --> https://localhost/?c=0-9-zeecinemahd <br><br>
-• Run Final URL in Browser You Get Streaming URL <br>
+• Go to <a href="https://www.zee5.com/channels">ZEE5 Live TV</a> Page <br><br>
+• Click on the channel which links you want to extract <br><br>
+• Copy the channel's ID from the URL box <br><br>
+• e.g --> Use This Link : https://www.zee5.com/channels/details/zee-cinema-hd/0-9-zeecinemahd <br><br>
+• Copy the ID e.g. <code>0-9-zeecinemahd</code> at end of URL <br><br>
+  • Copy and paste the ID after this URL without <code>0-9-</code> --> <code> https://localhost/?c=CHANNEL_ID</code> <br><br>
+• The final URL is --> https://localhost/?c=0-9-zeecinemahd <br><br>
+• Run said final URL in your browser, and then you'll get the stream's URL <br>
 </h4>
 <br><br>
 
@@ -22,8 +22,8 @@
 
 <h4>
   
-• Put I'd after <code>0-9-</code> : https://localhost/?c=0-9-zeecinemahd |  (Player Added )<br><br>
-• Put I'd after <code>0-9-</code> : https://localhost/?c=CHANNEL_ID  |  ( For Play in other Players or IPTV )
+• Insert ID after <code>0-9-</code> : https://localhost/?c=0-9-zeecinemahd |  ( A specific player )<br><br>
+• Insert ID after <code>0-9-</code> : https://localhost/?c=CHANNEL_ID  |  ( Other players )
   
   </h4><br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## Given Below Are List of Some IDs Of ZEE5.COM live Channel
+## [ID LIST]
 
 <br>
 
